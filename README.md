@@ -44,8 +44,8 @@ Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que 
 ### 📊 Minha Jornada no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasalves07&show_icons=true&theme=dark&bg_color=0D1117&title_color=00B8D4&text_color=F2F5F7&icon_color=00B8D4&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves07&layout=compact&theme=dark&bg_color=0D1117&title_color=00B8D4&text_color=F2F5F7&hide_border=true" />
+  [![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=douglasalves07)](https://github.com/anuraghazra/github-readme-stats)
+  [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves07)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
