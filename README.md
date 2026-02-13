@@ -28,7 +28,7 @@ Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que 
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(100%);" />
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: brightness(0) invert(1)"/>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="opacity: 0.5;" title="Em breve..." />
 </div>
 
@@ -38,12 +38,6 @@ Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que 
 
 * 🎓 **[Certificado HTML5](https://formacoes.devclub.com.br/m/certificate/html-devclub-full-stack/download):** Domínio em estruturação semântica e boas práticas de SEO.
 * 🎓 **[Certificado CSS3](https://formacoes.devclub.com.br/verify/9d5f4d22fd8ddfb7a85ad8958c1b70374f41c60a):** Estilização avançada, layouts responsivos e animações modernas.
-
----
-
-### 📊 Minha Jornada no GitHub
-
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasalves07&show_icons=true)
 
 ---
 
