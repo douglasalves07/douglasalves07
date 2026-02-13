@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/douglasalves07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Em+Transição+de+Carreira;Foco+em+Desenvolvimento+Web;HTML+%7C+CSS+%7C+JavaScript;Construindo+o+Futuro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Em+Transição+de+Carreira;Foco+em+Desenvolvimento+Web;HTML+%7C+CSS+%7C+JavaScript;Construindo+o+Futuro" alt="Douglas Alves" />
   </a>
 </div>
 
@@ -16,10 +16,9 @@ Estou em um momento empolgante de **transição de carreira**. Venho de experiê
 
 Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que a programação é a ferramenta mais poderosa para criar impacto real e estou focado em construir uma base sólida.
 
-* 🔭 **O que estou estudando:** Estou nos ajustes finais no meu perfil aqui no GitHub, concluindo o módulo de versionamento de código e me preparando para iniciar o módulo de JavaScript.
+* 🔭 **Onde estou agora:** Consolidando meus conhecimentos em versionamento de projetos com **Git & GitHub** e me preparando para o módulo de **JavaScript**.
 * 🌱 **Minha base atual:** Já crio interfaces estruturadas com **HTML5**, aplico estilização customizada com **CSS3** (nível intermediário) e gerencio meus projetos com **Git e GitHub**.
 * ⭐ **Diferencial:** Trago a **disciplina e atenção aos detalhes** do meio militar, somadas à **adaptabilidade e resolução de problemas em tempo real** da rotina de motorista de aplicativo.
-* ⚡ **Próximo passo:** Buscar minha primeira oportunidade como Dev Júnior.
 
 ---
 
@@ -39,15 +38,14 @@ Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que 
 
 * 🎓 **[Certificado HTML5](https://formacoes.devclub.com.br/m/certificate/html-devclub-full-stack/download):** Domínio em estruturação semântica e boas práticas de SEO.
 * 🎓 **[Certificado CSS3](https://formacoes.devclub.com.br/verify/9d5f4d22fd8ddfb7a85ad8958c1b70374f41c60a):** Estilização avançada, layouts responsivos e animações modernas.
-* 🎖️ **Em progresso:** Certificação em Git & GitHub (Módulo de Versionamento).
 
 ---
 
 ### 📊 Minha Jornada no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasalves07&show_icons=true&theme=react&bg_color=0A1A2F&title_color=00B8D4&text_color=F2F5F7&icon_color=00E676&border_color=0A1A2F&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves07&layout=compact&langs_count=6&bg_color=0A1A2F&title_color=00B8D4&text_color=F2F5F7&icon_color=00E676&border_color=0A1A2F&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasalves07&show_icons=true&theme=dark&bg_color=0D1117&title_color=00B8D4&text_color=F2F5F7&icon_color=00E676&border_color=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves07&layout=compact&langs_count=6&theme=dark&bg_color=0D1117&title_color=00B8D4&text_color=F2F5F7&icon_color=00E676&border_color=0D1117&hide_border=true" />
 </div>
 
 ---
@@ -56,12 +54,12 @@ Meu objetivo é me tornar um **Desenvolvedor FullStack** completo. Acredito que 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/douglas-alves07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=F2F5F7" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F2F5F7" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/douglasalves.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A1A2F?style=for-the-badge&logo=instagram&logoColor=00B8D4" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00B8D4" alt="Instagram">
   </a>
-  <a href="mailto:barbosadouglas.alves@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A1A2F?style=for-the-badge&logo=gmail&logoColor=00B8D4" alt="Email">
+  <a href="https://mailto:barbosadouglas.alves@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B8D4" alt="Email">
   </a>
 </div>
